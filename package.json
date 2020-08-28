@@ -1,19 +1,19 @@
 {
-  "name": "@nerdwallet/shepherd",
-  "version": "1.10.0",
+  "name": "@globalx/shepherd",
+  "version": "1.11.0",
   "description": "A utility for applying code changes across many repositories",
   "keywords": [
     "codemod",
     "codemods",
     "migration"
   ],
-  "homepage": "https://github.com/NerdWalletOSS/shepherd#readme",
+  "homepage": "https://github.com/globalx/shepherd#readme",
   "bugs": {
-    "url": "https://github.com/NerdWalletOSS/shepherd/issues"
+    "url": "https://github.com/globalx/shepherd/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NerdWalletOSS/shepherd.git"
+    "url": "git+https://github.com/globalx/shepherd.git"
   },
   "license": "Apache-2.0",
   "author": "Nathan Walters",

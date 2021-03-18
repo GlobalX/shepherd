@@ -1,3 +1,52 @@
+## [1.14.1](https://github.com/NerdWalletOSS/shepherd/compare/v1.14.0...v1.14.1) (2021-03-08)
+
+
+### Bug Fixes
+
+* drop deprecated silent() from simple-git ([#445](https://github.com/NerdWalletOSS/shepherd/issues/445)) ([8ce510e](https://github.com/NerdWalletOSS/shepherd/commit/8ce510e0585d5e5aba666603fee101b4dbde7b72))
+
+# [1.14.0](https://github.com/NerdWalletOSS/shepherd/compare/v1.13.1...v1.14.0) (2021-02-11)
+
+
+### Features
+
+* add github service ([#377](https://github.com/NerdWalletOSS/shepherd/issues/377)) ([7bbd54a](https://github.com/NerdWalletOSS/shepherd/commit/7bbd54a40666ede0b45f8e247fad1a0a0f65cf2a))
+
+## [1.13.1](https://github.com/NerdWalletOSS/shepherd/compare/v1.13.0...v1.13.1) (2021-01-18)
+
+
+### Bug Fixes
+
+* **deps:** update dependency ora to v5 ([#227](https://github.com/NerdWalletOSS/shepherd/issues/227)) ([596c6e6](https://github.com/NerdWalletOSS/shepherd/commit/596c6e6f846b23ae78a376630958cd2f32ac3f0d))
+
+# [1.13.0](https://github.com/NerdWalletOSS/shepherd/compare/v1.12.0...v1.13.0) (2021-01-14)
+
+
+### Features
+
+* update octokit ([#360](https://github.com/NerdWalletOSS/shepherd/issues/360)) ([5604e4f](https://github.com/NerdWalletOSS/shepherd/commit/5604e4fa25f2ef23eab4beaf32d97af1941bc7ab))
+
+# [1.12.0](https://github.com/NerdWalletOSS/shepherd/compare/v1.11.0...v1.12.0) (2021-01-08)
+
+
+### Features
+
+* enable searching for repositories with Github adapter ([#353](https://github.com/NerdWalletOSS/shepherd/issues/353)) ([fd47f96](https://github.com/NerdWalletOSS/shepherd/commit/fd47f962df2531aca05eea3d9ce2d0617d93d53c))
+
+# [1.11.0](https://github.com/NerdWalletOSS/shepherd/compare/v1.10.1...v1.11.0) (2020-12-03)
+
+
+### Features
+
+* exclude archived repos when fetching repos by org ([#323](https://github.com/NerdWalletOSS/shepherd/issues/323)) ([dea1159](https://github.com/NerdWalletOSS/shepherd/commit/dea1159bc7f2abcc179b173959abe01f149685ac))
+
+## [1.10.1](https://github.com/NerdWalletOSS/shepherd/compare/v1.10.0...v1.10.1) (2020-08-31)
+
+
+### Bug Fixes
+
+* **deps:** update dependency commander to v6.1.0 ([#240](https://github.com/NerdWalletOSS/shepherd/issues/240)) ([98cc133](https://github.com/NerdWalletOSS/shepherd/commit/98cc133c38da894877140646c2502e3f67d4feaa))
+
 # [1.10.0](https://github.com/NerdWalletOSS/shepherd/compare/v1.9.4...v1.10.0) (2020-08-14)
 
 
